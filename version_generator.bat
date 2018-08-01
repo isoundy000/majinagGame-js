@@ -1,0 +1,2 @@
+node version_generator.js -v 1.0.0 -u http://update.ydjoy.com/guoyaoqp/remote-assets/ -s build/jsb-default/ -d assets/
+node version_generator.js -v 1.0.3 -u http://123.207.40.180:8801/guoyaoqp/remote-assets/ -s build/jsb-default/ -d assets/

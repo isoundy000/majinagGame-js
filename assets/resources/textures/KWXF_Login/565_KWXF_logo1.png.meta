@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c27243e3-d08c-4505-8595-2d603c79cee0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "565_KWXF_logo1": {
+      "ver": "1.0.3",
+      "uuid": "48b13257-8751-4adb-9ffd-36b52994888d",
+      "rawTextureUuid": "c27243e3-d08c-4505-8595-2d603c79cee0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 998,
+      "height": 386,
+      "rawWidth": 999,
+      "rawHeight": 386,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

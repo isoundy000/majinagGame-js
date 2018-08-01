@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3e2eb85f-5151-451a-9271-1273ec5850c7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "497_KWX_Qukou_icon1": {
+      "ver": "1.0.3",
+      "uuid": "9ebd6312-153c-4b60-8c5a-3ed701ff2e54",
+      "rawTextureUuid": "3e2eb85f-5151-451a-9271-1273ec5850c7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 229,
+      "height": 91,
+      "rawWidth": 229,
+      "rawHeight": 91,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

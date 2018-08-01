@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c0908e96-09d6-49fd-b441-40f0c8b0950e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "img_seat_bupiao": {
+      "ver": "1.0.3",
+      "uuid": "b6b0ff26-9488-4b9a-8c54-d850f1946b94",
+      "rawTextureUuid": "c0908e96-09d6-49fd-b441-40f0c8b0950e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 47,
+      "height": 23,
+      "rawWidth": 47,
+      "rawHeight": 23,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

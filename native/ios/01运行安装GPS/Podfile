@@ -1,0 +1,1 @@
+target “guoyaoqp-mobile" do pod 'AMapLocation' end

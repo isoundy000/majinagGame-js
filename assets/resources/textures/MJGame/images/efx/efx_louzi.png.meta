@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d6d75028-b9a0-41cb-91ab-3404afc038fe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "efx_louzi": {
+      "ver": "1.0.3",
+      "uuid": "3ff7f020-e8ac-47c8-bd51-381de4837cf4",
+      "rawTextureUuid": "d6d75028-b9a0-41cb-91ab-3404afc038fe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 1.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1346,
+      "height": 501,
+      "rawWidth": 1352,
+      "rawHeight": 508,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "play_gang_new",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.26666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "6234a911-9a1a-4669-897f-5f64b2b9ca42"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "a3e93a50-639b-4a7a-9aae-1c47c299b45e"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "6234a911-9a1a-4669-897f-5f64b2b9ca42"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "scaleX": [
+        {
+          "frame": 0.03333333333333333,
+          "value": 1
+        },
+        {
+          "frame": 0.18333333333333332,
+          "value": 2
+        },
+        {
+          "frame": 0.23333333333333334,
+          "value": 1
+        },
+        {
+          "frame": 0.25,
+          "value": 0.5
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0.03333333333333333,
+          "value": 1
+        },
+        {
+          "frame": 0.18333333333333332,
+          "value": 2
+        },
+        {
+          "frame": 0.23333333333333334,
+          "value": 1
+        },
+        {
+          "frame": 0.25,
+          "value": 0.5
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "43b20940-c5b3-45b8-b86a-ff5fffd2bc5d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "431_KWX_game_tui_normal_2": {
+      "ver": "1.0.3",
+      "uuid": "8b7acb8c-e14f-46d9-84c3-f84131c5f691",
+      "rawTextureUuid": "43b20940-c5b3-45b8-b86a-ff5fffd2bc5d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 31,
+      "height": 30,
+      "rawWidth": 31,
+      "rawHeight": 31,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

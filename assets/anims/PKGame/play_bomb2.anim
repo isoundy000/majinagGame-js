@@ -1,0 +1,105 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "play_bomb2",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.1,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2d950303-9e4b-49f4-9909-1ded6278a98e"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "df15d63d-3977-41cb-827c-2cb686d21ea7"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "53d41d33-be37-4797-bf32-f475c3214e11"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "42b312d9-533a-483c-86d8-0c99791e9cfc"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "2a770faa-cdf8-402f-a544-fb578c3854a8"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "195c6811-6129-4746-9d86-36fc43f8590f"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "7b6e782c-d120-4fd4-866f-af75f6dd4e87"
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": {
+              "__uuid__": "7c2c9b1d-5a4d-4d7c-8cc9-c5a0d300f762"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "fc051303-62bc-443d-93ff-778be4bc2d58"
+            }
+          },
+          {
+            "frame": 0.9,
+            "value": {
+              "__uuid__": "58602e21-166b-4d6d-80d5-a533cef55db7"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "58602e21-166b-4d6d-80d5-a533cef55db7"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "color": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          }
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 1.1,
+      "func": "hideSelf",
+      "params": []
+    }
+  ]
+}

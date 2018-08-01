@@ -1,0 +1,67 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "play_peng_new",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.26666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "fcf7a988-4b49-4996-bfb4-ad1b44e3d2a8"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "02cfd4b0-bc21-4eef-85fa-10552fb8490e"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "fcf7a988-4b49-4996-bfb4-ad1b44e3d2a8"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "scaleX": [
+        {
+          "frame": 0.05,
+          "value": 1
+        },
+        {
+          "frame": 0.21666666666666667,
+          "value": 2
+        },
+        {
+          "frame": 0.25,
+          "value": 0.5
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0.05,
+          "value": 1
+        },
+        {
+          "frame": 0.21666666666666667,
+          "value": 2
+        },
+        {
+          "frame": 0.25,
+          "value": 0.5
+        }
+      ]
+    }
+  },
+  "events": []
+}

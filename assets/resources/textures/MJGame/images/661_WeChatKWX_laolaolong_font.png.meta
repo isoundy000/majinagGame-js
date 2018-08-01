@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a2fdaecd-6038-4dcf-b2c0-7f7ac592f6bc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "661_WeChatKWX_laolaolong_font": {
+      "ver": "1.0.3",
+      "uuid": "72a4d34e-c9a8-4a5b-92b5-0c758aa59bc2",
+      "rawTextureUuid": "a2fdaecd-6038-4dcf-b2c0-7f7ac592f6bc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3,
+      "offsetY": -1,
+      "trimX": 17,
+      "trimY": 5,
+      "width": 78,
+      "height": 92,
+      "rawWidth": 106,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

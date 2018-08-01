@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2f437b7a-57dc-4409-bd24-81291ae0a133",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "jionroom_btn_9": {
+      "ver": "1.0.3",
+      "uuid": "f2d937dc-18f3-4488-9ae2-a8d83945ccef",
+      "rawTextureUuid": "2f437b7a-57dc-4409-bd24-81291ae0a133",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -1.5,
+      "trimX": 5,
+      "trimY": 7,
+      "width": 116,
+      "height": 104,
+      "rawWidth": 125,
+      "rawHeight": 115,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

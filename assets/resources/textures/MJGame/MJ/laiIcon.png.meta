@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d9c6d75f-da51-49a2-b902-4326fee7083c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "laiIcon": {
+      "ver": "1.0.3",
+      "uuid": "9a248e6e-4f39-4fa7-8cb3-785c54f279e5",
+      "rawTextureUuid": "d9c6d75f-da51-49a2-b902-4326fee7083c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 9,
+      "offsetY": 19.5,
+      "trimX": 18,
+      "trimY": 0,
+      "width": 37,
+      "height": 45,
+      "rawWidth": 55,
+      "rawHeight": 84,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

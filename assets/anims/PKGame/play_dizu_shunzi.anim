@@ -1,0 +1,70 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "play_dizu_shunzi",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.4,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "45fd5c2d-63f7-400c-a80d-d3d6f601139b"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "45fd5c2d-63f7-400c-a80d-d3d6f601139b"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            710,
+            -33
+          ]
+        },
+        {
+          "frame": 0.2,
+          "value": [
+            0,
+            -33
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            0,
+            -33
+          ]
+        },
+        {
+          "frame": 1.2,
+          "value": [
+            137,
+            -33
+          ]
+        },
+        {
+          "frame": 1.4,
+          "value": [
+            -718,
+            -33
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}
